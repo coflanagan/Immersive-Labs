@@ -1,2 +1,4 @@
 # Immersive-Labs
-Immersive lab completed work
+Immersive labs completed work.
+
+- Attached shows the labs completed using Immersive labs.
